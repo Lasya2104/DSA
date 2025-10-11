@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Lasya2104/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Lasya2104/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Lasya2104/DSA/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/Lasya2104/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Lasya2104/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Lasya2104/DSA/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lasya2104/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Lasya2104/DSA/tree/master/0054-spiral-matrix) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Lasya2104/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Brainteaser
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Lasya2104/DSA/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Lasya2104/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lasya2104/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Lasya2104/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
