@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Lasya2104/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Lasya2104/DSA/tree/master/4005-maximum-total-subarray-value-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Lasya2104/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4011-smallest-absent-positive-greater-than-average](https://github.com/Lasya2104/DSA/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Lasya2104/DSA/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4039-compute-decimal-representation](https://github.com/Lasya2104/DSA/tree/master/4039-compute-decimal-representation) |
 ## Prefix Sum
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Lasya2104/DSA/tree/master/0041-first-missing-positive) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Lasya2104/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Lasya2104/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4011-smallest-absent-positive-greater-than-average](https://github.com/Lasya2104/DSA/tree/master/4011-smallest-absent-positive-greater-than-average) |
 ## String
 |  |
 | ------- |
