@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Lasya2104/DSA/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Lasya2104/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Lasya2104/DSA/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/Lasya2104/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Lasya2104/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0135-candy](https://github.com/Lasya2104/DSA/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Lasya2104/DSA/tree/master/0169-majority-element) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lasya2104/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Lasya2104/DSA/tree/master/0059-spiral-matrix-ii) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Lasya2104/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Brainteaser
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lasya2104/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Lasya2104/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Lasya2104/DSA/tree/master/0074-search-a-2d-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Lasya2104/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Divide and Conquer
