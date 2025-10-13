@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Lasya2104/DSA/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/Lasya2104/DSA/tree/master/0365-water-and-jug-problem) |
 | [1018-largest-perimeter-triangle](https://github.com/Lasya2104/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Lasya2104/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Lasya2104/DSA/tree/master/0342-power-of-four) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Lasya2104/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Lasya2104/DSA/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/Lasya2104/DSA/tree/master/0342-power-of-four) |
 ## Enumeration
 |  |
 | ------- |
