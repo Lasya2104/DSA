@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Lasya2104/DSA/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Lasya2104/DSA/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Lasya2104/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Lasya2104/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Lasya2104/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Lasya2104/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lasya2104/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Lasya2104/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lasya2104/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Lasya2104/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Lasya2104/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/Lasya2104/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Lasya2104/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lasya2104/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Lasya2104/DSA/tree/master/0074-search-a-2d-matrix) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Lasya2104/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Divide and Conquer
 |  |
 | ------- |
