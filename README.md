@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lasya2104/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lasya2104/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Lasya2104/DSA/tree/master/0031-next-permutation) |
+| [0234-palindrome-linked-list](https://github.com/Lasya2104/DSA/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Lasya2104/DSA/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Lasya2104/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -223,12 +224,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lasya2104/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Lasya2104/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Lasya2104/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Lasya2104/DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Lasya2104/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Lasya2104/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Lasya2104/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Lasya2104/DSA/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Lasya2104/DSA/tree/master/0342-power-of-four) |
 ## Enumeration
 |  |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Lasya2104/DSA/tree/master/0561-array-partition) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Lasya2104/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
