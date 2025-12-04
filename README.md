@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/Lasya2104/DSA/tree/master/0365-water-and-jug-problem) |
 | [0412-fizz-buzz](https://github.com/Lasya2104/DSA/tree/master/0412-fizz-buzz) |
 | [1018-largest-perimeter-triangle](https://github.com/Lasya2104/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lasya2104/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Lasya2104/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1635-number-of-good-pairs](https://github.com/Lasya2104/DSA/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Lasya2104/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Lasya2104/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Lasya2104/DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Lasya2104/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lasya2104/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
