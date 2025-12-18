@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Lasya2104/DSA/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Lasya2104/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Lasya2104/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1472-design-browser-history](https://github.com/Lasya2104/DSA/tree/master/1472-design-browser-history) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Lasya2104/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Lasya2104/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lasya2104/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Lasya2104/DSA/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Lasya2104/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lasya2104/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1472-design-browser-history](https://github.com/Lasya2104/DSA/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -281,9 +283,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Lasya2104/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Lasya2104/DSA/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/Lasya2104/DSA/tree/master/1472-design-browser-history) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lasya2104/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Lasya2104/DSA/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Lasya2104/DSA/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Lasya2104/DSA/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Lasya2104/DSA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
