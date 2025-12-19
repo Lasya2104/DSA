@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Lasya2104/DSA/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Lasya2104/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Lasya2104/DSA/tree/master/0169-majority-element) |
+| [0355-design-twitter](https://github.com/Lasya2104/DSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lasya2104/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0706-design-hashmap](https://github.com/Lasya2104/DSA/tree/master/0706-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/Lasya2104/DSA/tree/master/0940-fruit-into-baskets) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Lasya2104/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Lasya2104/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Lasya2104/DSA/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/Lasya2104/DSA/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/Lasya2104/DSA/tree/master/0706-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Lasya2104/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lasya2104/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lasya2104/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/Lasya2104/DSA/tree/master/0355-design-twitter) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lasya2104/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Lasya2104/DSA/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/Lasya2104/DSA/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/Lasya2104/DSA/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
