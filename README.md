@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Lasya2104/DSA/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Lasya2104/DSA/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
+| [0706-design-hashmap](https://github.com/Lasya2104/DSA/tree/master/0706-design-hashmap) |
 | [0792-binary-search](https://github.com/Lasya2104/DSA/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/Lasya2104/DSA/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Lasya2104/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Lasya2104/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Lasya2104/DSA/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lasya2104/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0706-design-hashmap](https://github.com/Lasya2104/DSA/tree/master/0706-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/Lasya2104/DSA/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Lasya2104/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1635-number-of-good-pairs](https://github.com/Lasya2104/DSA/tree/master/1635-number-of-good-pairs) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Lasya2104/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Lasya2104/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Lasya2104/DSA/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/Lasya2104/DSA/tree/master/0706-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Lasya2104/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lasya2104/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/Lasya2104/DSA/tree/master/1472-design-browser-history) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/Lasya2104/DSA/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/Lasya2104/DSA/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Lasya2104/DSA/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Lasya2104/DSA/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
