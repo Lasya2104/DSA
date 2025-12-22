@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Lasya2104/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Lasya2104/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0365-water-and-jug-problem](https://github.com/Lasya2104/DSA/tree/master/0365-water-and-jug-problem) |
 ## Breadth-First Search
 |  |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Lasya2104/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Lasya2104/DSA/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Lasya2104/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Lasya2104/DSA/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/Lasya2104/DSA/tree/master/1472-design-browser-history) |
 ## Merge Sort
@@ -334,8 +336,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Lasya2104/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Lasya2104/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Lasya2104/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Lasya2104/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
