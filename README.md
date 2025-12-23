@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Lasya2104/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Lasya2104/DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lasya2104/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Lasya2104/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Lasya2104/DSA/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/Lasya2104/DSA/tree/master/1472-design-browser-history) |
 ## Merge Sort
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Lasya2104/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0355-design-twitter](https://github.com/Lasya2104/DSA/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/Lasya2104/DSA/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Lasya2104/DSA/tree/master/0707-design-linked-list) |
@@ -344,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Lasya2104/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lasya2104/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Lasya2104/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
