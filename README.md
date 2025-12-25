@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Lasya2104/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Lasya2104/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Lasya2104/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Lasya2104/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Lasya2104/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lasya2104/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Lasya2104/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Lasya2104/DSA/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Lasya2104/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Lasya2104/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Lasya2104/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Lasya2104/DSA/tree/master/4005-maximum-total-subarray-value-i) |
 ## Sorting
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Lasya2104/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Lasya2104/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/Lasya2104/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Lasya2104/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Lasya2104/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
