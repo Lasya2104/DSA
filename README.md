@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Lasya2104/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/Lasya2104/DSA/tree/master/0657-robot-return-to-origin) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Lasya2104/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/Lasya2104/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Lasya2104/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Lasya2104/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Lasya2104/DSA/tree/master/2887-sort-vowels-in-a-string) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Lasya2104/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Lasya2104/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Lasya2104/DSA/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Lasya2104/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/Lasya2104/DSA/tree/master/1472-design-browser-history) |
 ## Merge Sort
 |  |
