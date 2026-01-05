@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lasya2104/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Lasya2104/DSA/tree/master/0013-roman-to-integer) |
+| [0227-basic-calculator-ii](https://github.com/Lasya2104/DSA/tree/master/0227-basic-calculator-ii) |
 | [0342-power-of-four](https://github.com/Lasya2104/DSA/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/Lasya2104/DSA/tree/master/0365-water-and-jug-problem) |
 | [0412-fizz-buzz](https://github.com/Lasya2104/DSA/tree/master/0412-fizz-buzz) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Lasya2104/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Lasya2104/DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Lasya2104/DSA/tree/master/0076-minimum-window-substring) |
+| [0227-basic-calculator-ii](https://github.com/Lasya2104/DSA/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/Lasya2104/DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Lasya2104/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lasya2104/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Lasya2104/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Lasya2104/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Lasya2104/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/Lasya2104/DSA/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Lasya2104/DSA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Lasya2104/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Lasya2104/DSA/tree/master/0503-next-greater-element-ii) |
