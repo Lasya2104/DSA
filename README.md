@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Lasya2104/DSA/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Lasya2104/DSA/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Lasya2104/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1975-maximum-matrix-sum](https://github.com/Lasya2104/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Lasya2104/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Lasya2104/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Lasya2104/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Lasya2104/DSA/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Lasya2104/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1975-maximum-matrix-sum](https://github.com/Lasya2104/DSA/tree/master/1975-maximum-matrix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Lasya2104/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Lasya2104/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Lasya2104/DSA/tree/master/4005-maximum-total-subarray-value-i) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Lasya2104/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lasya2104/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Lasya2104/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/Lasya2104/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Lasya2104/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Divide and Conquer
 |  |
