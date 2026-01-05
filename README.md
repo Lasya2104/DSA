@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Lasya2104/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Lasya2104/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Lasya2104/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/Lasya2104/DSA/tree/master/1390-four-divisors) |
 | [1472-design-browser-history](https://github.com/Lasya2104/DSA/tree/master/1472-design-browser-history) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Lasya2104/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Lasya2104/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Lasya2104/DSA/tree/master/0412-fizz-buzz) |
 | [1018-largest-perimeter-triangle](https://github.com/Lasya2104/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lasya2104/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1390-four-divisors](https://github.com/Lasya2104/DSA/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Lasya2104/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1635-number-of-good-pairs](https://github.com/Lasya2104/DSA/tree/master/1635-number-of-good-pairs) |
 | [1925-count-square-sum-triples](https://github.com/Lasya2104/DSA/tree/master/1925-count-square-sum-triples) |
