@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Lasya2104/DSA/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/Lasya2104/DSA/tree/master/0365-water-and-jug-problem) |
 | [0412-fizz-buzz](https://github.com/Lasya2104/DSA/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/Lasya2104/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Lasya2104/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lasya2104/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1390-four-divisors](https://github.com/Lasya2104/DSA/tree/master/1390-four-divisors) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Lasya2104/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Lasya2104/DSA/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Lasya2104/DSA/tree/master/0355-design-twitter) |
+| [0445-add-two-numbers-ii](https://github.com/Lasya2104/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0706-design-hashmap](https://github.com/Lasya2104/DSA/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Lasya2104/DSA/tree/master/0707-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Lasya2104/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Lasya2104/DSA/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Lasya2104/DSA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Lasya2104/DSA/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/Lasya2104/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Lasya2104/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Lasya2104/DSA/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Lasya2104/DSA/tree/master/1021-remove-outermost-parentheses) |
