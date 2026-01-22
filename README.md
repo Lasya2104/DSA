@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Lasya2104/DSA/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Lasya2104/DSA/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Lasya2104/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Lasya2104/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lasya2104/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0455-assign-cookies](https://github.com/Lasya2104/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Lasya2104/DSA/tree/master/0485-max-consecutive-ones) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lasya2104/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Lasya2104/DSA/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Lasya2104/DSA/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Lasya2104/DSA/tree/master/0227-basic-calculator-ii) |
 | [0342-power-of-four](https://github.com/Lasya2104/DSA/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/Lasya2104/DSA/tree/master/0365-water-and-jug-problem) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Lasya2104/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Lasya2104/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Lasya2104/DSA/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Lasya2104/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Lasya2104/DSA/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Lasya2104/DSA/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
