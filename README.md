@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Lasya2104/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Lasya2104/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Lasya2104/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lasya2104/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Lasya2104/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Lasya2104/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Lasya2104/DSA/tree/master/0169-majority-element) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Lasya2104/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Lasya2104/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Lasya2104/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lasya2104/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
 | ------- |
