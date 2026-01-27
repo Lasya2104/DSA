@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Lasya2104/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/Lasya2104/DSA/tree/master/2491-smallest-even-multiple) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Lasya2104/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lasya2104/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Lasya2104/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Lasya2104/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lasya2104/DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Lasya2104/DSA/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Lasya2104/DSA/tree/master/0342-power-of-four) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Lasya2104/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lasya2104/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Lasya2104/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Lasya2104/DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Lasya2104/DSA/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Lasya2104/DSA/tree/master/0735-asteroid-collision) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lasya2104/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Lasya2104/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Brainteaser
 |  |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Lasya2104/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Lasya2104/DSA/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Lasya2104/DSA/tree/master/0342-power-of-four) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lasya2104/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
 | ------- |
