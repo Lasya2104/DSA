@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Lasya2104/DSA/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Lasya2104/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1975-maximum-matrix-sum](https://github.com/Lasya2104/DSA/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lasya2104/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Lasya2104/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Lasya2104/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Lasya2104/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Lasya2104/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Lasya2104/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lasya2104/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lasya2104/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Lasya2104/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Lasya2104/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/Lasya2104/DSA/tree/master/2887-sort-vowels-in-a-string) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Lasya2104/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Lasya2104/DSA/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Lasya2104/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lasya2104/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lasya2104/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Matrix
 |  |
