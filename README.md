@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
 | [0706-design-hashmap](https://github.com/Lasya2104/DSA/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/Lasya2104/DSA/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Lasya2104/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Lasya2104/DSA/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/Lasya2104/DSA/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Lasya2104/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Lasya2104/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lasya2104/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Lasya2104/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Lasya2104/DSA/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
