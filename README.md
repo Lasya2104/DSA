@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Lasya2104/DSA/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Lasya2104/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/Lasya2104/DSA/tree/master/2491-smallest-even-multiple) |
+| [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Lasya2104/DSA/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Lasya2104/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lasya2104/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Lasya2104/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Lasya2104/DSA/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Lasya2104/DSA/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Lasya2104/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Lasya2104/DSA/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lasya2104/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lasya2104/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
