@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Lasya2104/DSA/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Lasya2104/DSA/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/Lasya2104/DSA/tree/master/0342-power-of-four) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Lasya2104/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lasya2104/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Lasya2104/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Lasya2104/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Lasya2104/DSA/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Lasya2104/DSA/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lasya2104/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
