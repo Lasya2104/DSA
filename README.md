@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Lasya2104/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Lasya2104/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Lasya2104/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lasya2104/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Lasya2104/DSA/tree/master/1390-four-divisors) |
 | [1472-design-browser-history](https://github.com/Lasya2104/DSA/tree/master/1472-design-browser-history) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Lasya2104/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Lasya2104/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Lasya2104/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lasya2104/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Lasya2104/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lasya2104/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lasya2104/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Lasya2104/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Lasya2104/DSA/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/Lasya2104/DSA/tree/master/0342-power-of-four) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lasya2104/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Lasya2104/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lasya2104/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Lasya2104/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lasya2104/DSA/tree/master/0169-majority-element) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lasya2104/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/Lasya2104/DSA/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Lasya2104/DSA/tree/master/1848-sum-of-unique-elements) |
 | [3713-longest-balanced-substring-i](https://github.com/Lasya2104/DSA/tree/master/3713-longest-balanced-substring-i) |
