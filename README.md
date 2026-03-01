@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Lasya2104/DSA/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Lasya2104/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Lasya2104/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Lasya2104/DSA/tree/master/1975-maximum-matrix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Lasya2104/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Lasya2104/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Lasya2104/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1598-crawler-log-folder](https://github.com/Lasya2104/DSA/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lasya2104/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Lasya2104/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Lasya2104/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Lasya2104/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Lasya2104/DSA/tree/master/2887-sort-vowels-in-a-string) |
