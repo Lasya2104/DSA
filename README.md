@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Lasya2104/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lasya2104/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Lasya2104/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Lasya2104/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Lasya2104/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Lasya2104/DSA/tree/master/4005-maximum-total-subarray-value-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Lasya2104/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Lasya2104/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Lasya2104/DSA/tree/master/1975-maximum-matrix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Lasya2104/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Lasya2104/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Lasya2104/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Lasya2104/DSA/tree/master/4005-maximum-total-subarray-value-i) |
 ## Sorting
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Lasya2104/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Lasya2104/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Lasya2104/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Lasya2104/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Lasya2104/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
