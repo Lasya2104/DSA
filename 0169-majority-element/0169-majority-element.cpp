@@ -1,20 +1,17 @@
 class Solution {
 public:
-    int majorityElement(vector<int>& arr) {
+    int majorityElement(vector<int>& nums) {
+        int n=nums.size()/2;
         unordered_map<int,int>frq;
-        for(int i=0;i<arr.size();i++)
+        for(int i=0;i<nums.size();i++)
         {
-            frq[arr[i]]++;
+            frq[nums[i]]++;
         }
-        long long maxfrq=-1;
-        int size=arr.size()/2;
-        for(long long i=0;i<=100000;i++)
+        int res=0;
+        for(auto p:frq)
         {
-            if(frq[i]>size)
-            {
-                maxfrq=i;
-            }
+            if(p.second>n)res=p.first;
         }
-        return maxfrq;
+        return res;
     }
 };
