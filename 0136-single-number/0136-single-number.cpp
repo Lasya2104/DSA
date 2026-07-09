@@ -1,11 +1,16 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int x=0;
+        unordered_map<int,int>frq;
         for(int i=0;i<nums.size();i++)
         {
-            x^=nums[i];
+            frq[nums[i]]++;
         }
-        return x;
+        int res=0;
+        for(auto p:frq)
+        {
+            if(p.second==1)res=p.first;
+        }
+        return res;
     }
 };
