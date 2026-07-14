@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lasya2104/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Lasya2104/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lasya2104/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Lasya2104/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Lasya2104/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Lasya2104/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Lasya2104/DSA/tree/master/0485-max-consecutive-ones) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Lasya2104/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Lasya2104/DSA/tree/master/0238-product-of-array-except-self) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Lasya2104/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Lasya2104/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Lasya2104/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
