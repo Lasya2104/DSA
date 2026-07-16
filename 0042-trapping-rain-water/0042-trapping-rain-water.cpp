@@ -1,23 +1,36 @@
 class Solution {
 public:
-    int trap(vector<int>& heights) {
-        int n=heights.size();
-        int total=0;
-        vector<int>leftmax(n),rightmax(n);
-        leftmax[0]=heights[0];
-        for(int i=1;i<n;i++)
+    vector<int>prefixmax(vector<int>&height)
+    {
+        vector<int>p(height.size());
+        p[0]=height[0];
+        for(int i=1;i<height.size();i++)
         {
-            leftmax[i]=max(leftmax[i-1],heights[i]);
+            p[i]=max(p[i-1],height[i]);
         }
-        rightmax[n-1]=heights[n-1];
-        for(int i=n-2;i>=0;i--)
+        return p;
+    }
+    vector<int>suffixmax(vector<int>&height)
+    {
+        vector<int>s(height.size());
+        s[height.size()-1]=height[height.size()-1];
+        for(int i=height.size()-2;i>=0;i--)
         {
-            rightmax[i]=max(rightmax[i+1],heights[i]);
+            s[i]=max(s[i+1],height[i]);
         }
-        for(int i=1;i<n-1;i++)
+        return s;
+    }
+    int trap(vector<int>& height) {
+        int sum=0;
+        vector<int>leftmax=prefixmax(height);
+        vector<int>rightmax=suffixmax(height);
+        for(int i=1;i<height.size()-1;i++)
         {
-            total+=min(leftmax[i],rightmax[i])-heights[i];
+            if(height[i]<leftmax[i] && height[i]<rightmax[i])
+            {
+                sum+=min(leftmax[i],rightmax[i])-height[i];
+            }
         }
-        return total;
+        return sum;
     }
 };
