@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Lasya2104/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Lasya2104/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lasya2104/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Lasya2104/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Lasya2104/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Lasya2104/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Lasya2104/DSA/tree/master/0152-maximum-product-subarray) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Lasya2104/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Lasya2104/DSA/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Lasya2104/DSA/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Lasya2104/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Lasya2104/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Lasya2104/DSA/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/Lasya2104/DSA/tree/master/0355-design-twitter) |
@@ -498,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Lasya2104/DSA/tree/master/3719-longest-balanced-subarray-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Lasya2104/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
