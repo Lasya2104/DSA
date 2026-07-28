@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Lasya2104/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Lasya2104/DSA/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Lasya2104/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/Lasya2104/DSA/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/Lasya2104/DSA/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lasya2104/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Lasya2104/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lasya2104/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lasya2104/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/Lasya2104/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Lasya2104/DSA/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Lasya2104/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lasya2104/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
