@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Lasya2104/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/Lasya2104/DSA/tree/master/2491-smallest-even-multiple) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Lasya2104/DSA/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lasya2104/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Lasya2104/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lasya2104/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Lasya2104/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Lasya2104/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Lasya2104/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Lasya2104/DSA/tree/master/1975-maximum-matrix-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lasya2104/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Lasya2104/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Lasya2104/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Lasya2104/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Lasya2104/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Lasya2104/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Lasya2104/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lasya2104/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Lasya2104/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lasya2104/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Lasya2104/DSA/tree/master/3713-longest-balanced-substring-i) |
