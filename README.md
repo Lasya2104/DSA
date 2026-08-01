@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Lasya2104/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Lasya2104/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Lasya2104/DSA/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Lasya2104/DSA/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Lasya2104/DSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Lasya2104/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Lasya2104/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Lasya2104/DSA/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/Lasya2104/DSA/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Lasya2104/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/Lasya2104/DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Lasya2104/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Lasya2104/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lasya2104/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Lasya2104/DSA/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/Lasya2104/DSA/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Lasya2104/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lasya2104/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Lasya2104/DSA/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/Lasya2104/DSA/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
 | ------- |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Lasya2104/DSA/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Lasya2104/DSA/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Lasya2104/DSA/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Lasya2104/DSA/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Lasya2104/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Lasya2104/DSA/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lasya2104/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
