@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Lasya2104/DSA/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Lasya2104/DSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Lasya2104/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Lasya2104/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Lasya2104/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Lasya2104/DSA/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Lasya2104/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lasya2104/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lasya2104/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Lasya2104/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Lasya2104/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lasya2104/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
