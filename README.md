@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lasya2104/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Lasya2104/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lasya2104/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Lasya2104/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Lasya2104/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Lasya2104/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lasya2104/DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Lasya2104/DSA/tree/master/1925-count-square-sum-triples) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Lasya2104/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Lasya2104/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lasya2104/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Lasya2104/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Heap (Priority Queue)
