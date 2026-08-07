@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Lasya2104/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Lasya2104/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Lasya2104/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Lasya2104/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lasya2104/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Lasya2104/DSA/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Lasya2104/DSA/tree/master/1406-stone-game-iii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lasya2104/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Lasya2104/DSA/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Lasya2104/DSA/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Lasya2104/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
 |  |
 | ------- |
