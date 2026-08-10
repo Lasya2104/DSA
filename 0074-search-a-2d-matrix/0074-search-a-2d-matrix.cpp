@@ -1,28 +1,30 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        int idx=0;
-        for(int i=0;i<matrix.size();i++)
-        {
-            if(target>=matrix[i][0])
-            {
-                idx=i;
+        int m = matrix.size();
+        int n = matrix[0].size();
+
+        int low = 0;
+        int high = m * n - 1;
+
+        while(low <= high) {
+            int mid = low + (high - low) / 2;
+
+            // Convert 1D index to 2D index
+            int row = mid / n;
+            int col = mid % n;
+
+            if(matrix[row][col] == target) {
+                return true;
             }
-            else
-            {
-                break;
+            else if(matrix[row][col] < target) {
+                low = mid + 1;
+            }
+            else {
+                high = mid - 1;
             }
         }
-        cout<<idx;
-        int flag=0;
-        for(int i=0;i<matrix[idx].size();i++)
-        {
-            if(find(matrix[idx].begin(),matrix[idx].end(),target)!=matrix[idx].end())
-            {
-                flag=1;
-            }
-        }
-        if(flag==0)return false;
-        else return true;
+
+        return false;
     }
 };
