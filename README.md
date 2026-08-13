@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Lasya2104/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Lasya2104/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Lasya2104/DSA/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lasya2104/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Lasya2104/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Lasya2104/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Lasya2104/DSA/tree/master/0486-predict-the-winner) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lasya2104/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Lasya2104/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Lasya2104/DSA/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lasya2104/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Lasya2104/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Lasya2104/DSA/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Lasya2104/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Lasya2104/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lasya2104/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lasya2104/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Lasya2104/DSA/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Lasya2104/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lasya2104/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lasya2104/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lasya2104/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lasya2104/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lasya2104/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Lasya2104/DSA/tree/master/0704-binary-search) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Lasya2104/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Lasya2104/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Lasya2104/DSA/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lasya2104/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/Lasya2104/DSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lasya2104/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lasya2104/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
