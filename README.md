@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Lasya2104/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Lasya2104/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lasya2104/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/Lasya2104/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Lasya2104/DSA/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Lasya2104/DSA/tree/master/1406-stone-game-iii) |
 | [1472-design-browser-history](https://github.com/Lasya2104/DSA/tree/master/1472-design-browser-history) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
 | [0781-rabbits-in-forest](https://github.com/Lasya2104/DSA/tree/master/0781-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Lasya2104/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1386-cinema-seat-allocation](https://github.com/Lasya2104/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Lasya2104/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Lasya2104/DSA/tree/master/1975-maximum-matrix-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lasya2104/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/Lasya2104/DSA/tree/master/0781-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/Lasya2104/DSA/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Lasya2104/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1386-cinema-seat-allocation](https://github.com/Lasya2104/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1635-number-of-good-pairs](https://github.com/Lasya2104/DSA/tree/master/1635-number-of-good-pairs) |
 | [1797-design-authentication-manager](https://github.com/Lasya2104/DSA/tree/master/1797-design-authentication-manager) |
 | [1848-sum-of-unique-elements](https://github.com/Lasya2104/DSA/tree/master/1848-sum-of-unique-elements) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Lasya2104/DSA/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/Lasya2104/DSA/tree/master/0342-power-of-four) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lasya2104/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/Lasya2104/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Lasya2104/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Lasya2104/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lasya2104/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
