@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Lasya2104/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Lasya2104/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Lasya2104/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Lasya2104/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lasya2104/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lasya2104/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3462-vowels-game-in-a-string](https://github.com/Lasya2104/DSA/tree/master/3462-vowels-game-in-a-string) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Lasya2104/DSA/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Lasya2104/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lasya2104/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Lasya2104/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lasya2104/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lasya2104/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lasya2104/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
