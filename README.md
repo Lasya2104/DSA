@@ -627,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Lasya2104/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Lasya2104/DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
