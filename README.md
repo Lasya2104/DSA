@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Lasya2104/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Lasya2104/DSA/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Lasya2104/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Lasya2104/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Lasya2104/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Lasya2104/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Lasya2104/DSA/tree/master/4005-maximum-total-subarray-value-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Lasya2104/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lasya2104/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Lasya2104/DSA/tree/master/3830-find-closest-person) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Lasya2104/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [4039-compute-decimal-representation](https://github.com/Lasya2104/DSA/tree/master/4039-compute-decimal-representation) |
 ## Depth-First Search
 |  |
