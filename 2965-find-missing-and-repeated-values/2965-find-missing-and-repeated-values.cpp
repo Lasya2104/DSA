@@ -2,33 +2,24 @@ class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
         vector<int>v;
-        vector<int>res;
+        int n=grid.size();
+        int tsum=0,asum=0;
+        unordered_set<int>s;
         for(int i=0;i<grid.size();i++)
         {
             for(int j=0;j<grid[i].size();j++)
             {
-                v.push_back(grid[i][j]);
+                asum+=grid[i][j];
+                if(s.find(grid[i][j])!=s.end())
+                {
+                    v.push_back(grid[i][j]);
+                }
+                s.insert(grid[i][j]);
             }
         }
-        unordered_map<int,int>frq;
-        for(int i=0;i<v.size();i++)
-        {
-            frq[v[i]]++;
-        }
-        for(int i=1;i<=v.size();i++)
-        {
-            if(frq[i]==2)
-            {
-                res.push_back(i);
-            }
-        }
-        for(int i=1;i<=v.size();i++)
-        {
-            if(frq[i]==0)
-            {
-                res.push_back(i);
-            }
-        }
-        return res;
+        tsum=(n*n)*(n*n+1)/2;
+        int b=tsum+v[0]-asum;
+        v.push_back(b);
+        return v;
     }
 };
