@@ -653,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Lasya2104/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Lasya2104/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
