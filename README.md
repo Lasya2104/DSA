@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Lasya2104/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Lasya2104/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Lasya2104/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Lasya2104/DSA/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Lasya2104/DSA/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/Lasya2104/DSA/tree/master/0735-asteroid-collision) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Lasya2104/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Lasya2104/DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Lasya2104/DSA/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Lasya2104/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Lasya2104/DSA/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Lasya2104/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Lasya2104/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Lasya2104/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Lasya2104/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Lasya2104/DSA/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Lasya2104/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Lasya2104/DSA/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Lasya2104/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lasya2104/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
