@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Lasya2104/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Lasya2104/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Lasya2104/DSA/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/Lasya2104/DSA/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Lasya2104/DSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Lasya2104/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lasya2104/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Lasya2104/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lasya2104/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Lasya2104/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0493-reverse-pairs](https://github.com/Lasya2104/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lasya2104/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Lasya2104/DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Lasya2104/DSA/tree/master/0704-binary-search) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Lasya2104/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Lasya2104/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Lasya2104/DSA/tree/master/0190-reverse-bits) |
+| [0493-reverse-pairs](https://github.com/Lasya2104/DSA/tree/master/0493-reverse-pairs) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lasya2104/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lasya2104/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Lasya2104/DSA/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Lasya2104/DSA/tree/master/0493-reverse-pairs) |
 ## Design
 |  |
 | ------- |
@@ -645,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Lasya2104/DSA/tree/master/0493-reverse-pairs) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lasya2104/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Union-Find
 |  |
@@ -700,4 +705,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lasya2104/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Lasya2104/DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Lasya2104/DSA/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Lasya2104/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
