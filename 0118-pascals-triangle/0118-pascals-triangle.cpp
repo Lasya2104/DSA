@@ -1,28 +1,24 @@
 class Solution {
 public:
-    vector<vector<int>> generate(int n) {
-        vector<vector<int>>matrix;
-        for(int i=0;i<n;i++)
+    vector<int> getRow(int rowIndex) {
+        long long ans=1;
+        vector<int>res;
+        res.push_back(ans);
+        for(int i=1;i<rowIndex;i++)
         {
-            vector<int>arr;
-            for(int j=0;j<=i;j++)
-            {
-                arr.push_back(0);
-            }
-            matrix.push_back(arr);
+            ans=ans*(rowIndex-i);
+            ans=ans/i;
+            res.push_back(ans);
         }
-        for(int i=0;i<n;i++)
+        return res;
+    }
+    vector<vector<int>> generate(int numRows) {
+        vector<vector<int>>ans;
+        for(int i=1;i<=numRows;i++)
         {
-            matrix[i][0]=1;
-            matrix[i][i]=1;
+            vector<int>temp=getRow(i);
+            ans.push_back(temp);
         }
-        for(int i=2;i<n;i++)
-        {
-            for(int j=1;j<i;j++)
-            {
-                matrix[i][j]=matrix[i-1][j]+matrix[i-1][j-1];
-            }
-        }
-        return matrix;
+        return ans;
     }
 };
