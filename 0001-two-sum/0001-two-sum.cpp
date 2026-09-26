@@ -1,33 +1,18 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        vector<pair<int,int>>pairs;
+        //the time complexity is o(n)
+        //the space complexity is o(n)
+        unordered_map<int,int>mp;
         for(int i=0;i<nums.size();i++)
         {
-            pairs.push_back({nums[i],i});
+            int x=target-nums[i];
+            if(mp.find(x)!=mp.end())
+            {
+                return {mp[x],i};
+            }
+            mp[nums[i]]=i;
         }
-        sort(pairs.begin(),pairs.end());
-        int left=0,right=pairs.size()-1;
-        vector<int>res(2,-1);
-        while(left<right)
-        {
-            int sum=0;
-            sum=pairs[left].first+pairs[right].first;
-            if(sum==target)
-            {
-                res[0]=pairs[left].second;
-                res[1]=pairs[right].second;
-                break;
-            }
-            else if(sum<target)
-            {
-                left++;
-            }
-            else
-            {
-                right--;
-            }
-        }
-        return res;
+        return {};
     }
 };
