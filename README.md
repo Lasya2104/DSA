@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Lasya2104/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Lasya2104/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lasya2104/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/Lasya2104/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Lasya2104/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lasya2104/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Lasya2104/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lasya2104/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Lasya2104/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Lasya2104/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Lasya2104/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Lasya2104/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lasya2104/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Lasya2104/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lasya2104/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Lasya2104/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Lasya2104/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Lasya2104/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Lasya2104/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lasya2104/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/Lasya2104/DSA/tree/master/0355-design-twitter) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lasya2104/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Lasya2104/DSA/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lasya2104/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/Lasya2104/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Lasya2104/DSA/tree/master/0493-reverse-pairs) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lasya2104/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Lasya2104/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Lasya2104/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Lasya2104/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Lasya2104/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lasya2104/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/Lasya2104/DSA/tree/master/1635-number-of-good-pairs) |
@@ -604,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lasya2104/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Lasya2104/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Lasya2104/DSA/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Lasya2104/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lasya2104/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -725,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lasya2104/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Lasya2104/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -767,4 +774,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lasya2104/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Lasya2104/DSA/tree/master/0493-reverse-pairs) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lasya2104/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
