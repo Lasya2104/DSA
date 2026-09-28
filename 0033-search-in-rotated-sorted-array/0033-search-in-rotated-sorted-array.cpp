@@ -5,10 +5,13 @@ public:
         while(low<=high)
         {
             int mid=(low+high)/2;
-            if(nums[mid]==target)return mid;
+            if(nums[mid] == target)
+            {
+                return mid;
+            }
             else if(nums[low]<=nums[mid])
             {
-                if(target<=nums[mid] && target>=nums[low])
+                if(nums[mid]>target && nums[low]<=target)
                 {
                     high=mid-1;
                 }
@@ -19,7 +22,7 @@ public:
             }
             else
             {
-                if(target>=nums[mid] && target<=nums[high])
+                if(nums[mid]<target && nums[high]>=target)
                 {
                     low=mid+1;
                 }
