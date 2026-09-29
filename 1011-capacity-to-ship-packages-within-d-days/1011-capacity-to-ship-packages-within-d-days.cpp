@@ -1,34 +1,44 @@
 class Solution {
 public:
-    int dayreq(vector<int> s, int cap) {
-        int day = 1, load = 0;
-        for (int i = 0; i < s.size(); i++) {
-            if (load + s[i] > cap) {
-                day++;
-                load = s[i];
-            } else {
-                load += s[i];
+    int reqdays(vector<int>&weights,int cap)
+    {
+        int load=0,d=1;
+        for(int i=0;i<weights.size();i++)
+        {
+            if((load+weights[i])<=cap)
+            {
+                load+=weights[i];
+            }
+            else
+            {
+                load=weights[i];
+                d++;
             }
         }
-        return day;
+        return d;
     }
     int shipWithinDays(vector<int>& weights, int days) {
-        int maxi = *max_element(weights.begin(), weights.end());
-        int sum = 0;
-        for (int i = 0; i < weights.size(); i++) {
-            sum += weights[i];
+        int sum=0;
+        int min_ans=INT_MAX;
+        for(int i=0;i<weights.size();i++)
+        {
+            sum+=weights[i];
         }
-        int mini = INT_MAX;
-        int low = maxi, high = sum;
-        while (low <= high) {
-            int mid = (low + high) / 2;
-            if (dayreq(weights, mid) <= days) {
-                mini = mid;
-                high = mid - 1;
-            } else {
-                low = mid + 1;
+        int maxi=*max_element(weights.begin(),weights.end());
+        int low=maxi,high=sum;
+        while(low<=high)
+        {
+            int mid=(low+high)/2;
+            if(reqdays(weights,mid)<=days)
+            {
+                min_ans=min(min_ans,mid);
+                high=mid-1;
+            }
+            else
+            {
+                low=mid+1;
             }
         }
-        return mini;
+        return min_ans;
     }
 };
