@@ -5,8 +5,8 @@ public:
         while(low<=high)
         {
             int mid=(low+high)/2;
-            int bm=arr[mid]-mid-1;
-            if(bm<k)
+            int missing_integers=arr[mid]-mid-1;
+            if(missing_integers<k)
             {
                 low=mid+1;
             }
