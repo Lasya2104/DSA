@@ -7,12 +7,13 @@ public:
             if(!st.empty() && s[i]==')' && st.top()=='(')st.pop();
             else st.push(s[i]);
         }
-        int cnt=0;
-        while(!st.empty())
-        {
-            st.pop();
-            cnt++;
-        }
-        return cnt;
+        return st.size();
+        // int cnt=0;
+        // while(!st.empty())
+        // {
+        //     st.pop();
+        //     cnt++;
+        // }
+        // return cnt;
     }
 };
